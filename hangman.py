@@ -1,3 +1,5 @@
+import os
+os.sustem("pip install RandomWords")
 import random_words as rw
 from module import aligorithm
 
