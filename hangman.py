@@ -1,7 +1,7 @@
 import os
 os.system("pip install RandomWords")
 import random_words as rw
-from module import aligorithm
+from module import algorithm
 
 while True:
     word = rw.RandomWords().random_word()
