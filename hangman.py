@@ -10,7 +10,7 @@ while True:
 
 chance=6
 ansBox = ['_' for i in range(len(word))]
-word=[i for i in word]
+word=[i for i in word] 
 usedWords = set({})
 
 print(' '.join(ansBox))
@@ -27,7 +27,7 @@ while chance != 0:
     usedWords.add(guess)
 
     if guess in word:
-        index = aligorithm.countIndex(word,guess)
+        index = algorithm.countIndex(word,guess)
         for i in index:
             ansBox[i] = guess
     else:
