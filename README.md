@@ -6,6 +6,7 @@
 - Tkinter
 
 ### Lorenz System
+> Animate the Lorenz system with matplotlib and numpy
 
 ---
 ## 2020
