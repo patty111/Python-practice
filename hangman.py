@@ -47,6 +47,6 @@ while chance != 0:
         break
 
 if chance == 0 and count != len(word):
-    print('\nYou Lost @@')
+    print('\nYou Lose @@')
 
 print('\n'+''.join(word))
