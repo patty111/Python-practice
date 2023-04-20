@@ -1,5 +1,6 @@
 # Python Practice
-## 2021
+
+
 ### What's for Dinner 
 > A roulette to decide what to eat for dinner
 - Threading
@@ -8,8 +9,9 @@
 ### Lorenz System
 > Animate the Lorenz system with matplotlib and numpy
 
----
-## 2020
+### Dynamic Crawler
+> A web crawler to get dynamic data from websites using selenium
+
 ### Instagram Crawler
 > A web crawler to download instagram pictures
 - XHR(XMLHttpRequest) and Json data format
