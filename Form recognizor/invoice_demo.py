@@ -6,7 +6,7 @@ from azure.ai.formrecognizer import DocumentAnalysisClient
 
 
 
-credentials = json.load(open("api.json"))
+credentials = json.load(open("credentials.json"))
 ENDPOINT = credentials['ENDPOINT']
 API_KEY = credentials['API_KEY']
 
