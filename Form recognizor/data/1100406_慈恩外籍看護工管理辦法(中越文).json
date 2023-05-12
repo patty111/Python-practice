@@ -1,0 +1,2156 @@
+{
+    "status": "succeeded",
+    "createdDateTime": "2023-05-11T12:28:21Z",
+    "lastUpdatedDateTime": "2023-05-11T12:28:28Z",
+    "analyzeResult": {
+      "apiVersion": "2023-02-28-preview",
+      "modelId": "prebuilt-document",
+      "stringIndexType": "utf16CodeUnit",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "angle": 0,
+          "width": 8.2778,
+          "height": 11.6944,
+          "unit": "inch",
+          "lines": [
+            {
+              "content": "新竹縣私立慈恩養護中心",
+              "polygon": [
+                2.6687,
+                0.4619,
+                5.3972,
+                0.4619,
+                5.3972,
+                0.7009,
+                2.6687,
+                0.7009
+              ],
+              "spans": [
+                {
+                  "offset": 0,
+                  "length": 11
+                }
+              ]
+            },
+            {
+              "content": "Trung tâm dưỡng lão tư nhân Từ Ân",
+              "polygon": [
+                2.0755,
+                0.7331,
+                5.9981,
+                0.7331,
+                5.9981,
+                1.0121,
+                2.0755,
+                1.0121
+              ],
+              "spans": [
+                {
+                  "offset": 12,
+                  "length": 33
+                }
+              ]
+            },
+            {
+              "content": "外籍看護管理辦法",
+              "polygon": [
+                3.1669,
+                1.0341,
+                4.9093,
+                1.0341,
+                4.9093,
+                1.2501,
+                3.1669,
+                1.2501
+              ],
+              "spans": [
+                {
+                  "offset": 46,
+                  "length": 8
+                }
+              ]
+            },
+            {
+              "content": "Biện pháp quản lý nhân viên hộ lý nước ngoài",
+              "polygon": [
+                1.8658,
+                1.3183,
+                6.2083,
+                1.3183,
+                6.2083,
+                1.5232,
+                1.8658,
+                1.5232
+              ],
+              "spans": [
+                {
+                  "offset": 55,
+                  "length": 44
+                }
+              ]
+            },
+            {
+              "content": "為維護外籍看護工生活及工作上的品質，特定本辦法。",
+              "polygon": [
+                1.4006,
+                1.5446,
+                5.9348,
+                1.5446,
+                5.9348,
+                1.7315,
+                1.4006,
+                1.7315
+              ],
+              "spans": [
+                {
+                  "offset": 100,
+                  "length": 24
+                }
+              ]
+            },
+            {
+              "content": "1、",
+              "polygon": [
+                0.9165,
+                1.5717,
+                1.0518,
+                1.5717,
+                1.0518,
+                1.7239,
+                0.9165,
+                1.7239
+              ],
+              "spans": [
+                {
+                  "offset": 125,
+                  "length": 2
+                }
+              ]
+            },
+            {
+              "content": "Để duy trì chất lượng cuộc sống và công việc của người lao động điều dưỡng",
+              "polygon": [
+                1.14,
+                2.0137,
+                7.1381,
+                2.0137,
+                7.1381,
+                2.2313,
+                1.14,
+                2.2313
+              ],
+              "spans": [
+                {
+                  "offset": 128,
+                  "length": 74
+                }
+              ]
+            },
+            {
+              "content": "nước ngoài, các biện pháp này được quy định",
+              "polygon": [
+                1.1378,
+                2.5371,
+                4.6763,
+                2.5371,
+                4.6763,
+                2.7158,
+                1.1378,
+                2.7158
+              ],
+              "spans": [
+                {
+                  "offset": 203,
+                  "length": 43
+                }
+              ]
+            },
+            {
+              "content": "2、",
+              "polygon": [
+                0.8978,
+                3.025,
+                1.0518,
+                3.025,
+                1.0518,
+                3.1773,
+                0.8978,
+                3.1773
+              ],
+              "spans": [
+                {
+                  "offset": 247,
+                  "length": 2
+                }
+              ]
+            },
+            {
+              "content": "中心提供外籍看護工自入境至離境期間，舉凡在食、衣、住、行、育、樂、醫",
+              "polygon": [
+                1.4225,
+                2.9941,
+                7.648,
+                2.9941,
+                7.648,
+                3.1848,
+                1.4225,
+                3.1848
+              ],
+              "spans": [
+                {
+                  "offset": 250,
+                  "length": 34
+                }
+              ]
+            },
+            {
+              "content": "療與心理輔導等服務，使外勞生活上無後顧之憂。",
+              "polygon": [
+                1.1921,
+                3.4795,
+                5.3304,
+                3.4795,
+                5.3304,
+                3.6654,
+                1.1921,
+                3.6654
+              ],
+              "spans": [
+                {
+                  "offset": 285,
+                  "length": 22
+                }
+              ]
+            },
+            {
+              "content": "Trung tâm cung cấp các dịch vụ như ăn, mặc, ở, đi lại, giáo dục, giải trí, khám",
+              "polygon": [
+                1.3996,
+                3.9515,
+                7.4709,
+                3.9515,
+                7.4709,
+                4.1691,
+                1.3996,
+                4.1691
+              ],
+              "spans": [
+                {
+                  "offset": 308,
+                  "length": 79
+                }
+              ]
+            },
+            {
+              "content": "chữa bệnh và tư vấn tâm lý cho người lao động nước ngoài từ khi nhập cảnh đến",
+              "polygon": [
+                1.4004,
+                4.436,
+                7.6568,
+                4.436,
+                7.6568,
+                4.6536,
+                1.4004,
+                4.6536
+              ],
+              "spans": [
+                {
+                  "offset": 388,
+                  "length": 77
+                }
+              ]
+            },
+            {
+              "content": "khi xuất cảnh, để người lao động nước ngoài không phải lo lắng trong cuộc",
+              "polygon": [
+                1.3953,
+                4.9204,
+                7.2384,
+                4.9204,
+                7.2384,
+                5.138,
+                1.3953,
+                5.138
+              ],
+              "spans": [
+                {
+                  "offset": 466,
+                  "length": 73
+                }
+              ]
+            },
+            {
+              "content": "sống.",
+              "polygon": [
+                1.4033,
+                5.4049,
+                1.7957,
+                5.4049,
+                1.7957,
+                5.6225,
+                1.4033,
+                5.6225
+              ],
+              "spans": [
+                {
+                  "offset": 540,
+                  "length": 5
+                }
+              ]
+            },
+            {
+              "content": "三、有關外籍看護工排班、休假應依照符合勞基法規定保障外籍看護工權益。",
+              "polygon": [
+                0.9081,
+                5.9033,
+                7.3474,
+                5.9033,
+                7.3474,
+                6.0915,
+                0.9081,
+                6.0915
+              ],
+              "spans": [
+                {
+                  "offset": 546,
+                  "length": 34
+                }
+              ]
+            },
+            {
+              "content": "Về việc sắp xếp lịch làm, lịch nghỉ của nhân viên chăm sóc người nước ngoài,",
+              "polygon": [
+                1.3955,
+                6.3738,
+                7.461,
+                6.3738,
+                7.461,
+                6.5914,
+                1.3955,
+                6.5914
+              ],
+              "spans": [
+                {
+                  "offset": 581,
+                  "length": 76
+                }
+              ]
+            },
+            {
+              "content": "các quyền và lợi ích của nhân viên chăm sóc người nước ngoài sẽ được bảo vệ",
+              "polygon": [
+                1.4004,
+                6.8582,
+                7.49,
+                6.8582,
+                7.49,
+                7.0758,
+                1.4004,
+                7.0758
+              ],
+              "spans": [
+                {
+                  "offset": 658,
+                  "length": 75
+                }
+              ]
+            },
+            {
+              "content": "theo quy định của Luật Tiêu chuẩn Lao động",
+              "polygon": [
+                1.3957,
+                7.3427,
+                4.8805,
+                7.3427,
+                4.8805,
+                7.5603,
+                1.3957,
+                7.5603
+              ],
+              "spans": [
+                {
+                  "offset": 734,
+                  "length": 42
+                }
+              ]
+            },
+            {
+              "content": "四、每月定期與外籍照服員召開會議，溝通工作、生活照顧事宜。",
+              "polygon": [
+                0.7111,
+                7.8355,
+                6.0829,
+                7.8355,
+                6.0829,
+                8.0293,
+                0.7111,
+                8.0293
+              ],
+              "spans": [
+                {
+                  "offset": 777,
+                  "length": 29
+                }
+              ]
+            },
+            {
+              "content": "Tổ chức các cuộc họp định kỳ hàng tháng với các nhân viên nước ngoài để trao",
+              "polygon": [
+                1.2815,
+                8.3116,
+                7.4375,
+                8.3116,
+                7.4375,
+                8.5292,
+                1.2815,
+                8.5292
+              ],
+              "spans": [
+                {
+                  "offset": 807,
+                  "length": 76
+                }
+              ]
+            },
+            {
+              "content": "đổi các vấn đề về công việc và chăm sóc cuộc sống",
+              "polygon": [
+                1.2794,
+                8.796,
+                5.2599,
+                8.796,
+                5.2599,
+                9.0136,
+                1.2794,
+                9.0136
+              ],
+              "spans": [
+                {
+                  "offset": 884,
+                  "length": 49
+                }
+              ]
+            },
+            {
+              "content": "5、",
+              "polygon": [
+                0.9031,
+                9.3256,
+                1.0518,
+                9.3256,
+                1.0518,
+                9.4751,
+                0.9031,
+                9.4751
+              ],
+              "spans": [
+                {
+                  "offset": 934,
+                  "length": 2
+                }
+              ]
+            },
+            {
+              "content": "有關食宿規定Các quy định liên quan về ăn ở:",
+              "polygon": [
+                1.4021,
+                9.2805,
+                5.1343,
+                9.2805,
+                5.1343,
+                9.4981,
+                1.4021,
+                9.4981
+              ],
+              "spans": [
+                {
+                  "offset": 937,
+                  "length": 37
+                }
+              ]
+            },
+            {
+              "content": "中心提供的食宿照顧如下Tiền ăn, ở do trung tâm cung cấp như sau:",
+              "polygon": [
+                1.4225,
+                9.7649,
+                6.9293,
+                9.7649,
+                6.9293,
+                9.9825,
+                1.4225,
+                9.9825
+              ],
+              "spans": [
+                {
+                  "offset": 975,
+                  "length": 52
+                }
+              ]
+            },
+            {
+              "content": "1.提供符合外籍風俗民情之餐點。",
+              "polygon": [
+                0.9896,
+                10.2641,
+                3.7508,
+                10.2641,
+                3.7508,
+                10.4516,
+                0.9896,
+                10.4516
+              ],
+              "spans": [
+                {
+                  "offset": 1028,
+                  "length": 16
+                }
+              ]
+            },
+            {
+              "content": "Cung cấp bữa ăn phù hợp với phong tục nước ngoài",
+              "polygon": [
+                1.443,
+                10.7338,
+                5.7479,
+                10.7338,
+                5.7479,
+                10.9514,
+                1.443,
+                10.9514
+              ],
+              "spans": [
+                {
+                  "offset": 1045,
+                  "length": 48
+                }
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 1093
+            }
+          ],
+          "kind": "document"
+        },
+        {
+          "pageNumber": 2,
+          "angle": 0,
+          "width": 8.2778,
+          "height": 11.6944,
+          "unit": "inch",
+          "lines": [
+            {
+              "content": "2.提供洗衣機。Cung cấp máy giặt",
+              "polygon": [
+                0.9814,
+                0.4433,
+                3.8504,
+                0.4433,
+                3.8504,
+                0.6608,
+                0.9814,
+                0.6608
+              ],
+              "spans": [
+                {
+                  "offset": 1094,
+                  "length": 25
+                }
+              ]
+            },
+            {
+              "content": "3.設置梳妝台及曬衣區。Đặt bàn trang điểm và khu phơi quần áo",
+              "polygon": [
+                1.2369,
+                0.9277,
+                6.7138,
+                0.9277,
+                6.7138,
+                1.1453,
+                1.2369,
+                1.1453
+              ],
+              "spans": [
+                {
+                  "offset": 1120,
+                  "length": 50
+                }
+              ]
+            },
+            {
+              "content": "4.宿舍皆配置衛浴設備、24小時熱水系統，並可使用本機構公共空間之文康",
+              "polygon": [
+                1.2387,
+                1.4213,
+                7.5684,
+                1.4213,
+                7.5684,
+                1.6144,
+                1.2387,
+                1.6144
+              ],
+              "spans": [
+                {
+                  "offset": 1171,
+                  "length": 35
+                }
+              ]
+            },
+            {
+              "content": "室、",
+              "polygon": [
+                0.9066,
+                1.9135,
+                1.1525,
+                1.9135,
+                1.1525,
+                2.0912,
+                0.9066,
+                2.0912
+              ],
+              "spans": [
+                {
+                  "offset": 1207,
+                  "length": 2
+                }
+              ]
+            },
+            {
+              "content": "會客室、閱覽室、飲用水設備、寢室配置視聽設備、網際網路。",
+              "polygon": [
+                1.4775,
+                2.4012,
+                6.655,
+                2.4012,
+                6.655,
+                2.5935,
+                1.4775,
+                2.5935
+              ],
+              "spans": [
+                {
+                  "offset": 1210,
+                  "length": 28
+                }
+              ]
+            },
+            {
+              "content": "Các ký túc xá đều được trang bị phòng tắm, hệ thống nước nóng 24/24,",
+              "polygon": [
+                1.3388,
+                2.8891,
+                7.2044,
+                2.8891,
+                7.2044,
+                3.1067,
+                1.3388,
+                3.1067
+              ],
+              "spans": [
+                {
+                  "offset": 1239,
+                  "length": 68
+                }
+              ]
+            },
+            {
+              "content": "có thể sử dụng phòng văn hóa giải trí, phòng tiếp tân, phòng đọc sách, thiết",
+              "polygon": [
+                1.3384,
+                3.3854,
+                7.547,
+                3.3854,
+                7.547,
+                3.603,
+                1.3384,
+                3.603
+              ],
+              "spans": [
+                {
+                  "offset": 1308,
+                  "length": 76
+                }
+              ]
+            },
+            {
+              "content": "bị nước uống, kýtúc xá trang bị thiết bị nghe nhìn, Internet.",
+              "polygon": [
+                1.3351,
+                3.8816,
+                6.2657,
+                3.8816,
+                6.2657,
+                4.0992,
+                1.3351,
+                4.0992
+              ],
+              "spans": [
+                {
+                  "offset": 1385,
+                  "length": 61
+                }
+              ]
+            },
+            {
+              "content": "六、工作照顧上提供công việc được cung cấp:",
+              "polygon": [
+                0.6981,
+                4.3779,
+                4.5132,
+                4.3779,
+                4.5132,
+                4.5955,
+                0.6981,
+                4.5955
+              ],
+              "spans": [
+                {
+                  "offset": 1447,
+                  "length": 33
+                }
+              ]
+            },
+            {
+              "content": "1.參與在職教育訓練及消防演練",
+              "polygon": [
+                1.2676,
+                4.8856,
+                3.9661,
+                4.8856,
+                3.9661,
+                5.0732,
+                1.2676,
+                5.0732
+              ],
+              "spans": [
+                {
+                  "offset": 1481,
+                  "length": 15
+                }
+              ]
+            },
+            {
+              "content": "Tham gia đào tạo tại chỗ và diễn tập phòng cháy chữa cháy",
+              "polygon": [
+                1.3589,
+                5.3762,
+                6.2719,
+                5.3762,
+                6.2719,
+                5.588,
+                1.3589,
+                5.588
+              ],
+              "spans": [
+                {
+                  "offset": 1497,
+                  "length": 57
+                }
+              ]
+            },
+            {
+              "content": "2.辦理外籍勞工工作說明及機構規定。",
+              "polygon": [
+                1.2588,
+                5.8696,
+                4.4211,
+                5.8696,
+                4.4211,
+                6.0571,
+                1.2588,
+                6.0571
+              ],
+              "spans": [
+                {
+                  "offset": 1555,
+                  "length": 18
+                }
+              ]
+            },
+            {
+              "content": "Xử lý các hướng dẫn công việc và các quy định thể chế cho người lao động",
+              "polygon": [
+                1.4366,
+                6.3393,
+                7.2958,
+                6.3393,
+                7.2958,
+                6.5569,
+                1.4366,
+                6.5569
+              ],
+              "spans": [
+                {
+                  "offset": 1574,
+                  "length": 72
+                }
+              ]
+            },
+            {
+              "content": "nước ngoài",
+              "polygon": [
+                1.4364,
+                6.8626,
+                2.3023,
+                6.8626,
+                2.3023,
+                7.0413,
+                1.4364,
+                7.0413
+              ],
+              "spans": [
+                {
+                  "offset": 1647,
+                  "length": 10
+                }
+              ]
+            },
+            {
+              "content": "3.照服員協助各項教學並促使資深人員傳承帶動。",
+              "polygon": [
+                1.1932,
+                7.3214,
+                5.3448,
+                7.3214,
+                5.3448,
+                7.5081,
+                1.1932,
+                7.5081
+              ],
+              "spans": [
+                {
+                  "offset": 1658,
+                  "length": 23
+                }
+              ]
+            },
+            {
+              "content": "Người phục vụ hỗ trợ trong việc giảng dạy khác nhau và thúc đẩy sự kế thừa",
+              "polygon": [
+                1.023,
+                7.7926,
+                6.9864,
+                7.7926,
+                6.9864,
+                8.0102,
+                1.023,
+                8.0102
+              ],
+              "spans": [
+                {
+                  "offset": 1682,
+                  "length": 74
+                }
+              ]
+            },
+            {
+              "content": "của các nhân viên khác.",
+              "polygon": [
+                1.032,
+                8.316,
+                2.8621,
+                8.316,
+                2.8621,
+                8.4554,
+                1.032,
+                8.4554
+              ],
+              "spans": [
+                {
+                  "offset": 1757,
+                  "length": 23
+                }
+              ]
+            },
+            {
+              "content": "4.舉辦各種講習。(如衛生急救、性騷懮防治宣導、CPR急救及性病防治等",
+              "polygon": [
+                0.9313,
+                8.7763,
+                7.0307,
+                8.7763,
+                7.0307,
+                8.9787,
+                0.9313,
+                8.9787
+              ],
+              "spans": [
+                {
+                  "offset": 1781,
+                  "length": 35
+                }
+              ]
+            },
+            {
+              "content": "講座)",
+              "polygon": [
+                1.0831,
+                9.2629,
+                1.5265,
+                9.2629,
+                1.5265,
+                9.4632,
+                1.0831,
+                9.4632
+              ],
+              "spans": [
+                {
+                  "offset": 1817,
+                  "length": 3
+                }
+              ]
+            },
+            {
+              "content": "Tổ chức các cuộc hội thảo khác nhau. (Chẳng hạn như sơ cứu sức khỏe, quảng",
+              "polygon": [
+                1.3925,
+                9.7304,
+                7.4926,
+                9.7304,
+                7.4926,
+                9.948,
+                1.3925,
+                9.948
+              ],
+              "spans": [
+                {
+                  "offset": 1821,
+                  "length": 74
+                }
+              ]
+            },
+            {
+              "content": "bá",
+              "polygon": [
+                1.1436,
+                10.2538,
+                1.3269,
+                10.2538,
+                1.3269,
+                10.3932,
+                1.1436,
+                10.3932
+              ],
+              "spans": [
+                {
+                  "offset": 1896,
+                  "length": 2
+                }
+              ]
+            },
+            {
+              "content": "phòng chống quấy rối tình dục, sơ cứu CPR, các bài giảng và bài giảng về",
+              "polygon": [
+                1.3863,
+                10.6993,
+                7.143,
+                10.6993,
+                7.143,
+                10.9169,
+                1.3863,
+                10.9169
+              ],
+              "spans": [
+                {
+                  "offset": 1899,
+                  "length": 72
+                }
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 1094,
+              "length": 877
+            }
+          ],
+          "kind": "document"
+        },
+        {
+          "pageNumber": 3,
+          "angle": 0,
+          "width": 8.2778,
+          "height": 11.6944,
+          "unit": "inch",
+          "lines": [
+            {
+              "content": "phòng",
+              "polygon": [
+                1.1434,
+                0.4821,
+                1.6261,
+                0.4821,
+                1.6261,
+                0.6608,
+                1.1434,
+                0.6608
+              ],
+              "spans": [
+                {
+                  "offset": 1972,
+                  "length": 5
+                }
+              ]
+            },
+            {
+              "content": "ngừa và điều trị các bệnh lây truyền qua đường tình dục)",
+              "polygon": [
+                1.3878,
+                0.9277,
+                5.788,
+                0.9277,
+                5.788,
+                1.1453,
+                1.3878,
+                1.1453
+              ],
+              "spans": [
+                {
+                  "offset": 1978,
+                  "length": 56
+                }
+              ]
+            },
+            {
+              "content": "5.防疫宣導與防範措施執行。",
+              "polygon": [
+                0.8889,
+                1.4269,
+                3.2578,
+                1.4269,
+                3.2578,
+                1.6136,
+                0.8889,
+                1.6136
+              ],
+              "spans": [
+                {
+                  "offset": 2035,
+                  "length": 14
+                }
+              ]
+            },
+            {
+              "content": "Khuyến khích phòng chống dịch và thực hiện các biện pháp phòng chống",
+              "polygon": [
+                1.3414,
+                1.8966,
+                7.0527,
+                1.8966,
+                7.0527,
+                2.1142,
+                1.3414,
+                2.1142
+              ],
+              "spans": [
+                {
+                  "offset": 2050,
+                  "length": 68
+                }
+              ]
+            },
+            {
+              "content": "6.不定期提供法令宣導Cung cấp tuyên truyền pháp lệnh",
+              "polygon": [
+                0.8868,
+                2.3929,
+                5.6303,
+                2.3929,
+                5.6303,
+                2.6104,
+                0.8868,
+                2.6104
+              ],
+              "spans": [
+                {
+                  "offset": 2119,
+                  "length": 42
+                }
+              ]
+            },
+            {
+              "content": "七、有關外籍看護工的權益保障及申訴，依本中心員工申訴辦法及流程辦理。",
+              "polygon": [
+                0.6981,
+                2.9031,
+                7.1389,
+                2.9031,
+                7.1389,
+                3.0913,
+                0.6981,
+                3.0913
+              ],
+              "spans": [
+                {
+                  "offset": 2162,
+                  "length": 34
+                }
+              ]
+            },
+            {
+              "content": "Về việc bảo vệ quyền và lợi ích của nhân viên chăm sóc người nước ngoài và",
+              "polygon": [
+                0.8811,
+                3.3854,
+                7.1765,
+                3.3854,
+                7.1765,
+                3.603,
+                0.8811,
+                3.603
+              ],
+              "spans": [
+                {
+                  "offset": 2197,
+                  "length": 74
+                }
+              ]
+            },
+            {
+              "content": "kháng cáo của họ, họ sẽ được xử lý theo các phương pháp và thủ tục khiếu nại",
+              "polygon": [
+                0.886,
+                3.8816,
+                7.3495,
+                3.8816,
+                7.3495,
+                4.0992,
+                0.886,
+                4.0992
+              ],
+              "spans": [
+                {
+                  "offset": 2272,
+                  "length": 76
+                }
+              ]
+            },
+            {
+              "content": "của nhân viên của trung tâm",
+              "polygon": [
+                0.887,
+                4.4162,
+                3.2555,
+                4.4162,
+                3.2555,
+                4.5955,
+                0.887,
+                4.5955
+              ],
+              "spans": [
+                {
+                  "offset": 2349,
+                  "length": 27
+                }
+              ]
+            },
+            {
+              "content": "八、本辦法經主任核定後實施，修正時亦同。",
+              "polygon": [
+                0.6474,
+                4.8874,
+                4.3195,
+                4.8874,
+                4.3195,
+                5.0748,
+                0.6474,
+                5.0748
+              ],
+              "spans": [
+                {
+                  "offset": 2377,
+                  "length": 20
+                }
+              ]
+            },
+            {
+              "content": "Phương pháp này sẽ được thực hiện sau khi được giám đốc phê duyệt, và sẽ như",
+              "polygon": [
+                0.8359,
+                5.3704,
+                7.4807,
+                5.3704,
+                7.4807,
+                5.588,
+                0.8359,
+                5.588
+              ],
+              "spans": [
+                {
+                  "offset": 2398,
+                  "length": 76
+                }
+              ]
+            },
+            {
+              "content": "vậy khi được sửa đổi",
+              "polygon": [
+                0.8328,
+                5.8666,
+                2.5521,
+                5.8666,
+                2.5521,
+                6.0842,
+                0.8328,
+                6.0842
+              ],
+              "spans": [
+                {
+                  "offset": 2475,
+                  "length": 20
+                }
+              ]
+            },
+            {
+              "content": "109.05.02檢閱108.11.29檢閱",
+              "polygon": [
+                0.9165,
+                6.3651,
+                3.206,
+                6.3651,
+                3.206,
+                6.5471,
+                0.9165,
+                6.5471
+              ],
+              "spans": [
+                {
+                  "offset": 2496,
+                  "length": 22
+                }
+              ]
+            },
+            {
+              "content": "107.10.25檢閱106.10.24制訂",
+              "polygon": [
+                0.9165,
+                6.8495,
+                3.2278,
+                6.8495,
+                3.2278,
+                7.0323,
+                0.9165,
+                7.0323
+              ],
+              "spans": [
+                {
+                  "offset": 2519,
+                  "length": 22
+                }
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 1972,
+              "length": 569
+            }
+          ],
+          "kind": "document"
+        }
+      ],
+      "tables": [],
+      "paragraphs": [
+        {
+          "spans": [
+            {
+              "offset": 0,
+              "length": 124
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1.4006,
+                0.4619,
+                6.2083,
+                0.4619,
+                6.2083,
+                1.7315,
+                1.4006,
+                1.7315
+              ]
+            }
+          ],
+          "content": "新竹縣私立慈恩養護中心 Trung tâm dưỡng lão tư nhân Từ Ân 外籍看護管理辦法 Biện pháp quản lý nhân viên hộ lý nước ngoài 為維護外籍看護工生活及工作上的品質，特定本辦法。"
+        },
+        {
+          "spans": [
+            {
+              "offset": 125,
+              "length": 2
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                0.9165,
+                1.5717,
+                1.0518,
+                1.5717,
+                1.0518,
+                1.7239,
+                0.9165,
+                1.7239
+              ]
+            }
+          ],
+          "content": "1、"
+        },
+        {
+          "spans": [
+            {
+              "offset": 128,
+              "length": 118
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1.1378,
+                2.0137,
+                7.1381,
+                2.0137,
+                7.1381,
+                2.7158,
+                1.1378,
+                2.7158
+              ]
+            }
+          ],
+          "content": "Để duy trì chất lượng cuộc sống và công việc của người lao động điều dưỡng nước ngoài, các biện pháp này được quy định"
+        },
+        {
+          "spans": [
+            {
+              "offset": 247,
+              "length": 60
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                0.8978,
+                2.9941,
+                7.648,
+                2.9941,
+                7.648,
+                3.6654,
+                0.8978,
+                3.6654
+              ]
+            }
+          ],
+          "content": "2、 中心提供外籍看護工自入境至離境期間，舉凡在食、衣、住、行、育、樂、醫 療與心理輔導等服務，使外勞生活上無後顧之憂。"
+        },
+        {
+          "spans": [
+            {
+              "offset": 308,
+              "length": 237
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1.3953,
+                3.9515,
+                7.6568,
+                3.9515,
+                7.6568,
+                5.6225,
+                1.3953,
+                5.6225
+              ]
+            }
+          ],
+          "content": "Trung tâm cung cấp các dịch vụ như ăn, mặc, ở, đi lại, giáo dục, giải trí, khám chữa bệnh và tư vấn tâm lý cho người lao động nước ngoài từ khi nhập cảnh đến khi xuất cảnh, để người lao động nước ngoài không phải lo lắng trong cuộc sống."
+        },
+        {
+          "spans": [
+            {
+              "offset": 546,
+              "length": 230
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                0.9081,
+                5.9033,
+                7.49,
+                5.9033,
+                7.49,
+                7.5603,
+                0.9081,
+                7.5603
+              ]
+            }
+          ],
+          "content": "三、有關外籍看護工排班、休假應依照符合勞基法規定保障外籍看護工權益。 Về việc sắp xếp lịch làm, lịch nghỉ của nhân viên chăm sóc người nước ngoài, các quyền và lợi ích của nhân viên chăm sóc người nước ngoài sẽ được bảo vệ theo quy định của Luật Tiêu chuẩn Lao động"
+        },
+        {
+          "spans": [
+            {
+              "offset": 777,
+              "length": 29
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                0.7111,
+                7.8355,
+                6.0829,
+                7.8355,
+                6.0829,
+                8.0293,
+                0.7111,
+                8.0293
+              ]
+            }
+          ],
+          "content": "四、每月定期與外籍照服員召開會議，溝通工作、生活照顧事宜。"
+        },
+        {
+          "spans": [
+            {
+              "offset": 807,
+              "length": 126
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1.2794,
+                8.3116,
+                7.4375,
+                8.3116,
+                7.4375,
+                9.0136,
+                1.2794,
+                9.0136
+              ]
+            }
+          ],
+          "content": "Tổ chức các cuộc họp định kỳ hàng tháng với các nhân viên nước ngoài để trao đổi các vấn đề về công việc và chăm sóc cuộc sống"
+        },
+        {
+          "spans": [
+            {
+              "offset": 934,
+              "length": 93
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                0.9031,
+                9.2805,
+                6.9293,
+                9.2805,
+                6.9293,
+                9.9825,
+                0.9031,
+                9.9825
+              ]
+            }
+          ],
+          "content": "5、 有關食宿規定Các quy định liên quan về ăn ở: 中心提供的食宿照顧如下Tiền ăn, ở do trung tâm cung cấp như sau:"
+        },
+        {
+          "spans": [
+            {
+              "offset": 1028,
+              "length": 16
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                0.9896,
+                10.2641,
+                3.7508,
+                10.2641,
+                3.7508,
+                10.4516,
+                0.9896,
+                10.4516
+              ]
+            }
+          ],
+          "content": "1.提供符合外籍風俗民情之餐點。"
+        },
+        {
+          "spans": [
+            {
+              "offset": 1045,
+              "length": 48
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1.443,
+                10.7338,
+                5.7479,
+                10.7338,
+                5.7479,
+                10.9514,
+                1.443,
+                10.9514
+              ]
+            }
+          ],
+          "content": "Cung cấp bữa ăn phù hợp với phong tục nước ngoài"
+        },
+        {
+          "spans": [
+            {
+              "offset": 1094,
+              "length": 25
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 2,
+              "polygon": [
+                0.9814,
+                0.4433,
+                3.8504,
+                0.4433,
+                3.8504,
+                0.6608,
+                0.9814,
+                0.6608
+              ]
+            }
+          ],
+          "content": "2.提供洗衣機。Cung cấp máy giặt"
+        },
+        {
+          "spans": [
+            {
+              "offset": 1120,
+              "length": 86
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 2,
+              "polygon": [
+                1.2369,
+                0.9277,
+                7.5684,
+                0.9277,
+                7.5684,
+                1.6144,
+                1.2369,
+                1.6144
+              ]
+            }
+          ],
+          "content": "3.設置梳妝台及曬衣區。Đặt bàn trang điểm và khu phơi quần áo 4.宿舍皆配置衛浴設備、24小時熱水系統，並可使用本機構公共空間之文康"
+        },
+        {
+          "spans": [
+            {
+              "offset": 1207,
+              "length": 2
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 2,
+              "polygon": [
+                0.9066,
+                1.9135,
+                1.1525,
+                1.9135,
+                1.1525,
+                2.0912,
+                0.9066,
+                2.0912
+              ]
+            }
+          ],
+          "content": "室、"
+        },
+        {
+          "spans": [
+            {
+              "offset": 1210,
+              "length": 174
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 2,
+              "polygon": [
+                1.3384,
+                2.4012,
+                7.547,
+                2.4012,
+                7.547,
+                3.603,
+                1.3384,
+                3.603
+              ]
+            }
+          ],
+          "content": "會客室、閱覽室、飲用水設備、寢室配置視聽設備、網際網路。 Các ký túc xá đều được trang bị phòng tắm, hệ thống nước nóng 24/24, có thể sử dụng phòng văn hóa giải trí, phòng tiếp tân, phòng đọc sách, thiết"
+        },
+        {
+          "spans": [
+            {
+              "offset": 1385,
+              "length": 61
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 2,
+              "polygon": [
+                1.3351,
+                3.8816,
+                6.2657,
+                3.8816,
+                6.2657,
+                4.0992,
+                1.3351,
+                4.0992
+              ]
+            }
+          ],
+          "content": "bị nước uống, kýtúc xá trang bị thiết bị nghe nhìn, Internet."
+        },
+        {
+          "spans": [
+            {
+              "offset": 1447,
+              "length": 33
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 2,
+              "polygon": [
+                0.6981,
+                4.3779,
+                4.5132,
+                4.3779,
+                4.5132,
+                4.5955,
+                0.6981,
+                4.5955
+              ]
+            }
+          ],
+          "content": "六、工作照顧上提供công việc được cung cấp:"
+        },
+        {
+          "spans": [
+            {
+              "offset": 1481,
+              "length": 15
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 2,
+              "polygon": [
+                1.2676,
+                4.8856,
+                3.9661,
+                4.8856,
+                3.9661,
+                5.0732,
+                1.2676,
+                5.0732
+              ]
+            }
+          ],
+          "content": "1.參與在職教育訓練及消防演練"
+        },
+        {
+          "spans": [
+            {
+              "offset": 1497,
+              "length": 57
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 2,
+              "polygon": [
+                1.3589,
+                5.3762,
+                6.2719,
+                5.3762,
+                6.2719,
+                5.588,
+                1.3589,
+                5.588
+              ]
+            }
+          ],
+          "content": "Tham gia đào tạo tại chỗ và diễn tập phòng cháy chữa cháy"
+        },
+        {
+          "spans": [
+            {
+              "offset": 1555,
+              "length": 18
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 2,
+              "polygon": [
+                1.2588,
+                5.8696,
+                4.4211,
+                5.8696,
+                4.4211,
+                6.0571,
+                1.2588,
+                6.0571
+              ]
+            }
+          ],
+          "content": "2.辦理外籍勞工工作說明及機構規定。"
+        },
+        {
+          "spans": [
+            {
+              "offset": 1574,
+              "length": 83
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 2,
+              "polygon": [
+                1.4364,
+                6.3393,
+                7.2958,
+                6.3393,
+                7.2958,
+                7.0413,
+                1.4364,
+                7.0413
+              ]
+            }
+          ],
+          "content": "Xử lý các hướng dẫn công việc và các quy định thể chế cho người lao động nước ngoài"
+        },
+        {
+          "spans": [
+            {
+              "offset": 1658,
+              "length": 23
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 2,
+              "polygon": [
+                1.1932,
+                7.3214,
+                5.3448,
+                7.3214,
+                5.3448,
+                7.5081,
+                1.1932,
+                7.5081
+              ]
+            }
+          ],
+          "content": "3.照服員協助各項教學並促使資深人員傳承帶動。"
+        },
+        {
+          "spans": [
+            {
+              "offset": 1682,
+              "length": 98
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 2,
+              "polygon": [
+                1.023,
+                7.7926,
+                6.9864,
+                7.7926,
+                6.9864,
+                8.4554,
+                1.023,
+                8.4554
+              ]
+            }
+          ],
+          "content": "Người phục vụ hỗ trợ trong việc giảng dạy khác nhau và thúc đẩy sự kế thừa của các nhân viên khác."
+        },
+        {
+          "spans": [
+            {
+              "offset": 1781,
+              "length": 39
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 2,
+              "polygon": [
+                0.9313,
+                8.7763,
+                7.0307,
+                8.7763,
+                7.0307,
+                9.4632,
+                0.9313,
+                9.4632
+              ]
+            }
+          ],
+          "content": "4.舉辦各種講習。(如衛生急救、性騷懮防治宣導、CPR急救及性病防治等 講座)"
+        },
+        {
+          "spans": [
+            {
+              "offset": 1821,
+              "length": 74
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 2,
+              "polygon": [
+                1.3925,
+                9.7304,
+                7.4926,
+                9.7304,
+                7.4926,
+                9.948,
+                1.3925,
+                9.948
+              ]
+            }
+          ],
+          "content": "Tổ chức các cuộc hội thảo khác nhau. (Chẳng hạn như sơ cứu sức khỏe, quảng"
+        },
+        {
+          "spans": [
+            {
+              "offset": 1896,
+              "length": 2
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 2,
+              "polygon": [
+                1.1436,
+                10.2538,
+                1.3269,
+                10.2538,
+                1.3269,
+                10.3932,
+                1.1436,
+                10.3932
+              ]
+            }
+          ],
+          "content": "bá"
+        },
+        {
+          "spans": [
+            {
+              "offset": 1899,
+              "length": 72
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 2,
+              "polygon": [
+                1.3863,
+                10.6993,
+                7.143,
+                10.6993,
+                7.143,
+                10.9169,
+                1.3863,
+                10.9169
+              ]
+            }
+          ],
+          "content": "phòng chống quấy rối tình dục, sơ cứu CPR, các bài giảng và bài giảng về"
+        },
+        {
+          "spans": [
+            {
+              "offset": 1972,
+              "length": 5
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 3,
+              "polygon": [
+                1.1434,
+                0.4821,
+                1.6261,
+                0.4821,
+                1.6261,
+                0.6608,
+                1.1434,
+                0.6608
+              ]
+            }
+          ],
+          "content": "phòng"
+        },
+        {
+          "spans": [
+            {
+              "offset": 1978,
+              "length": 56
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 3,
+              "polygon": [
+                1.3878,
+                0.9277,
+                5.788,
+                0.9277,
+                5.788,
+                1.1453,
+                1.3878,
+                1.1453
+              ]
+            }
+          ],
+          "content": "ngừa và điều trị các bệnh lây truyền qua đường tình dục)"
+        },
+        {
+          "spans": [
+            {
+              "offset": 2035,
+              "length": 14
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 3,
+              "polygon": [
+                0.8889,
+                1.4269,
+                3.2578,
+                1.4269,
+                3.2578,
+                1.6136,
+                0.8889,
+                1.6136
+              ]
+            }
+          ],
+          "content": "5.防疫宣導與防範措施執行。"
+        },
+        {
+          "spans": [
+            {
+              "offset": 2050,
+              "length": 111
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 3,
+              "polygon": [
+                0.8868,
+                1.8966,
+                7.0527,
+                1.8966,
+                7.0527,
+                2.6104,
+                0.8868,
+                2.6104
+              ]
+            }
+          ],
+          "content": "Khuyến khích phòng chống dịch và thực hiện các biện pháp phòng chống 6.不定期提供法令宣導Cung cấp tuyên truyền pháp lệnh"
+        },
+        {
+          "spans": [
+            {
+              "offset": 2162,
+              "length": 34
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 3,
+              "polygon": [
+                0.6981,
+                2.9031,
+                7.1389,
+                2.9031,
+                7.1389,
+                3.0913,
+                0.6981,
+                3.0913
+              ]
+            }
+          ],
+          "content": "七、有關外籍看護工的權益保障及申訴，依本中心員工申訴辦法及流程辦理。"
+        },
+        {
+          "spans": [
+            {
+              "offset": 2197,
+              "length": 74
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 3,
+              "polygon": [
+                0.8811,
+                3.3854,
+                7.1765,
+                3.3854,
+                7.1765,
+                3.603,
+                0.8811,
+                3.603
+              ]
+            }
+          ],
+          "content": "Về việc bảo vệ quyền và lợi ích của nhân viên chăm sóc người nước ngoài và"
+        },
+        {
+          "spans": [
+            {
+              "offset": 2272,
+              "length": 104
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 3,
+              "polygon": [
+                0.886,
+                3.8816,
+                7.3495,
+                3.8816,
+                7.3495,
+                4.5955,
+                0.886,
+                4.5955
+              ]
+            }
+          ],
+          "content": "kháng cáo của họ, họ sẽ được xử lý theo các phương pháp và thủ tục khiếu nại của nhân viên của trung tâm"
+        },
+        {
+          "spans": [
+            {
+              "offset": 2377,
+              "length": 20
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 3,
+              "polygon": [
+                0.6474,
+                4.8874,
+                4.3195,
+                4.8874,
+                4.3195,
+                5.0748,
+                0.6474,
+                5.0748
+              ]
+            }
+          ],
+          "content": "八、本辦法經主任核定後實施，修正時亦同。"
+        },
+        {
+          "spans": [
+            {
+              "offset": 2398,
+              "length": 143
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 3,
+              "polygon": [
+                0.8328,
+                5.3704,
+                7.4807,
+                5.3704,
+                7.4807,
+                7.0323,
+                0.8328,
+                7.0323
+              ]
+            }
+          ],
+          "content": "Phương pháp này sẽ được thực hiện sau khi được giám đốc phê duyệt, và sẽ như vậy khi được sửa đổi 109.05.02檢閱108.11.29檢閱 107.10.25檢閱106.10.24制訂"
+        }
+      ],
+      "keyValuePairs": [
+        {
+          "key": {
+            "content": "sau:",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  6.6419,
+                  9.8497,
+                  6.9293,
+                  9.8497,
+                  6.9293,
+                  9.9432,
+                  6.6419,
+                  9.9432
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 1023,
+                "length": 4
+              }
+            ]
+          },
+          "confidence": 0.651
+        }
+      ],
+      "entities": [],
+      "styles": [],
+      "documents": []
+    }
+  }
